@@ -1,8 +1,10 @@
 <img src="https://github.com/VasudevKillada/VasudevKillada/blob/main/github.png" alt="banner that says Vasudev Killada - data scientist, data engineer, yogi">
 <!--
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=sarah-hart-landolt&show_icons=true&theme=radical)
-![github stats](https://github-readme-stats.vercel.app/api?username=VasudevKillada&show_icons=true&theme=radical)
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=VasudevKillada&show_icons=true&theme=radical)
+![Vasu's github stats](https://github-readme-stats.vercel.app/api?username=VasudevKillada&show_icons=true&theme=radical)
+
+
 **VasudevKillada/VasudevKillada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
