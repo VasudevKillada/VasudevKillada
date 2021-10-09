@@ -1,5 +1,5 @@
 <img src="https://github.com/VasudevKillada/VasudevKillada/blob/main/github.png" alt="banner that says Vasudev Killada - data scientist, data engineer, yogi">
-
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=VasudevKillada&show_icons=true&theme=radical)
 ![Vasu's github stats](https://github-readme-stats.vercel.app/api?username=VasudevKillada&show_icons=true&theme=radical)
 
 
