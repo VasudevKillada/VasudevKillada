@@ -16,16 +16,3 @@
 
 [1]: https://twitter.com/VasudevKillada
 [2]: https://www.linkedin.com/in/VasudevKilada/
-
-
-Here are some ideas to get you started:
-
-🔭 I’m currently working on building a human resource data science product <br>
-🌱 I’m currently doing efficient SQL writing benchmarks <br>
-👯 I’m looking to collaborate on building AI for better humanity - Yoga  <br>
-🤔 I’m looking for help with facial detection and AI algorithms and NLP. <br>
-💬 Ask me about yoga, data science, data engineering, architecture, dance or how to cook good biryani. <br>
-📫 How to reach me: LinkedIn, Facebook, Instagram <br>
-😄 Pronouns: He/Him/His <br>
-⚡ Fun fact: I did my first head stand when I was 5 years old. <br>
--->
