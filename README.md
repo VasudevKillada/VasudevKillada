@@ -1,7 +1,11 @@
 <img src="https://github.com/VasudevKillada/VasudevKillada/blob/main/github.png" alt="banner that says Vasudev Killada - data scientist, data engineer, yogi"><br>
-![Vasu's top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=VasudevKillada&show_icons=true&theme=radical)
+### AWS Migration Reference Architecture by Vasudev Killada
+<img src="https://github.com/VasudevKillada/Architecture/blob/main/Hybrid%20AWS-onPerm%20cloud%20Architecture-SPE%20BI%20AWS%20Architecture.jpg" alt="banner that says Vasudev Killada - data scientist, data engineer, yogi"><br>
 
-![Vasu's github stats](https://github-readme-stats.vercel.app/api?username=VasudevKillada&show_icons=true&theme=radical)
+<img src="https://github.com/VasudevKillada/Architecture/blob/main/General%20Architecture%20to%20access%20vendor%20DBMS%20in%20AWS%20After%20migration.jpg"><br>
+
+
+![Vasu's top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=VasudevKillada&show_icons=true&theme=radical)![Vasu's github stats](https://github-readme-stats.vercel.app/api?username=VasudevKillada&show_icons=true&theme=radical)
 
 <!-- Actual text -->
 
