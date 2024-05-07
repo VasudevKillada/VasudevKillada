@@ -3,6 +3,7 @@
 ### <span style="color: red"> AWS Migration Reference Architecture by Vasudev Killada</span> <br>
 <img src="https://github.com/VasudevKillada/Architecture/blob/main/Hybrid%20AWS-onPerm%20cloud%20Architecture-SPE%20BI%20AWS%20Architecture.jpg" alt="banner that says Vasudev Killada - data scientist, data engineer, yogi"><br>
 
+![Data movement strategy](images/Data Leadership.jpeg)
 
 <img src="https://github.com/VasudevKillada/Architecture/blob/main/General%20Architecture%20to%20access%20vendor%20DBMS%20in%20AWS%20After%20migration.jpg"><br>
 
